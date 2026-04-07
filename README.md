@@ -34,3 +34,17 @@ Cualquier cambio que hagas en `src/` se reflejará automáticamente de forma loc
 Para publicar los cambios en tu web oficial:
 1. Sube los cambios de esta carpeta a GitHub (`git add .`, `git commit -m "update"`, `git push`).
 2. Si conectaste Vercel a tu GitHub, ¡el deploy web se hará automáticamente y estará online en minutos!
+
+---
+
+## 🤝 Cómo Contribuir (Pull Requests)
+
+¡Este proyecto es de código abierto (Open Source)! Sin embargo, **nadie puede modificar el código directamente** sin la aprobación del creador. 
+
+Si tienes una idea, descubriste un error, o quieres agregar una nueva frase mufa al detector:
+1. Haz un **Fork** de este repositorio (copia la estructura a tu propia cuenta de GitHub).
+2. Crea una **nueva rama** con tu mejora (`git checkout -b mejora-increible`).
+3. Sube tus cambios a tu Fork (`git push origin mejora-increible`).
+4. Abre un **Pull Request (PR)** aquí en el repositorio original.
+
+¡Revisaré tus cambios y, si todo está bien, lo aprobaré para sumarlo al detector oficial!
