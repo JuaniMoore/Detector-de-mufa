@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧿 Detector de Mufa 2026
 
-## Getting Started
+¡Bienvenido al **Detector de Mufa** oficial! Una herramienta indispensable para analizar frases mundialistas y asegurarnos de mantener a raya la "mufa" antes y durante el Mundial 2026.
 
-First, run the development server:
+## 🔗 Link del Proyecto en Vivo
+Una vez que despliegues el proyecto (por ejemplo, en Vercel), ¡tu aplicación estará disponible en internet de forma pública! No necesitarás abrirlo en tu computadora o usar `localhost`.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**[¡Pruébalo aquí en la versión web! (Añade tu link de Vercel luego de hacer el deploy)](#)**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💻 Desarrollo Local (Para programarlo en tu PC)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Si quieres seguir editando el código fuente o probar cosas localmente en tu máquina, entonces sí seguirás usando las herramientas de desarrollador:
 
-## Learn More
+1. Instala las dependencias (si es tu primera vez clonándolo):
+   ```bash
+   npm install
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Corre el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Abre [http://localhost:3000](http://localhost:3000) en el navegador para ver los cambios locales.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Cualquier cambio que hagas en `src/` se reflejará automáticamente de forma local.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Despliegue (Deploy)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Para publicar los cambios en tu web oficial:
+1. Sube los cambios de esta carpeta a GitHub (`git add .`, `git commit -m "update"`, `git push`).
+2. Si conectaste Vercel a tu GitHub, ¡el deploy web se hará automáticamente y estará online en minutos!
