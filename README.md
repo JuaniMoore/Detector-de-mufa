@@ -3,9 +3,9 @@
 ¡Bienvenido al **Detector de Mufa** oficial! Una herramienta indispensable para analizar frases mundialistas y asegurarnos de mantener a raya la "mufa" antes y durante el Mundial 2026.
 
 ## 🔗 Link del Proyecto en Vivo
-Una vez que despliegues el proyecto (por ejemplo, en Vercel), ¡tu aplicación estará disponible en internet de forma pública! No necesitarás abrirlo en tu computadora o usar `localhost`.
+¡La aplicación ya está disponible en internet de forma pública!
 
-**[¡Pruébalo aquí en la versión web! (Añade tu link de Vercel luego de hacer el deploy)](#)**
+**[https://detector-de-mufa.vercel.app](https://detector-de-mufa.vercel.app)**
 
 ---
 
